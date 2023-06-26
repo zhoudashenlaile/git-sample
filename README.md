@@ -1,2 +1,2 @@
 # git-sample
-This is a sample READE.md
+This is a sample READEM.md
